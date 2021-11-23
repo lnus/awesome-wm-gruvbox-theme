@@ -38,13 +38,13 @@ theme.font          = "sans 10"
 
 theme.bg_normal     = bg
 theme.bg_focus      = bg1
-theme.bg_urgent     = bg_red
+theme.bg_urgent     = bg1
 theme.bg_minimize   = bg_aqua
 theme.bg_systray    = bg
 
 theme.fg_normal     = fg
 theme.fg_focus      = fg
-theme.fg_urgent     = fg
+theme.fg_urgent     = fg_purple
 theme.fg_minimize   = fg
 
 theme.useless_gap   = dpi(0)
