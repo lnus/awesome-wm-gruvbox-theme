@@ -4,7 +4,11 @@ This is an adaptation of the default theme for AwesomeWM following the Gruvbox c
 
 ## Screenshots
 
-SOON™ 
+### Main
+![Screenshot of the main](https://i.imgur.com/E84ngOh.png)
+
+### Opinionated
+![Screenshot of the opinionated](https://i.imgur.com/14jbcR1.png)
 
 ## Installation (in .config)
 
