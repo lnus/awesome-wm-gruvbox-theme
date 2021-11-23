@@ -13,6 +13,7 @@ local theme = {}
 
 -- Background colors
 local bg        = "#282828"
+local bg1       = "#3c3836"
 local bg_red    = "#cc241d"
 local bg_green  = "#98971a"
 local bg_yellow = "#d79921"
@@ -36,13 +37,13 @@ local fg_orange = "#fe8019"
 theme.font          = "sans 10"
 
 theme.bg_normal     = bg
-theme.bg_focus      = fg
+theme.bg_focus      = bg1
 theme.bg_urgent     = bg_red
 theme.bg_minimize   = bg_aqua
 theme.bg_systray    = bg
 
 theme.fg_normal     = fg
-theme.fg_focus      = bg
+theme.fg_focus      = fg
 theme.fg_urgent     = fg
 theme.fg_minimize   = fg
 
